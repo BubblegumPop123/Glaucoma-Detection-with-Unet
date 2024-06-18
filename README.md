@@ -1,8 +1,3 @@
-# Glaucoma-Detection-with-Unet
-### Project Description and Guide
-
----
-
 # Glaucoma Detection Using U-Net
 
 ## Project Description
